@@ -1,0 +1,7 @@
+{
+    "name": "Therm_LED_Library",
+    "version": "0.0.31",
+    "author": "Eric Peter <epeter@gmail.com>, forked from beefbowl <dev020@gmail.com>",
+    "license": "MIT",
+    "description": "Forked from BeefBowl's Adafruit's LED Backpack & GFX library for SparkCore to fix a compile error"
+}
